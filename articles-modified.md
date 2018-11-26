@@ -64,4 +64,108 @@
      (4) If he is prohibited from being a Director by any order by under Section 295 to 302 of the Copmanys Act 1985
      (5) If he removed from Office by a resolution duly passed under Section 303 of the Companies Act 1985.
 
+## Decision-making by directors
+
+### 17. Directors to take decisions collectively
+
+17.—(1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 8.
+
+(2) If—
+
+(a) the company only has one director, and (b) no provision of the articles requires it to have more than one director, the general rule does not apply, and the director may take decisions without regard to any of the provisions of the articles relating to directors’ decision-making.
+
+### 8. Unanimous decisions
+
+18.—(1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
+
+(2) Such a decision may take the form of a resolution in writing, copies of which have been signed by each eligible director or to which each eligible director has otherwise indicated agreement in writing.
+
+(3) References in this article to eligible directors are to directors who would have been entitled to vote on the matter had it been proposed as a resolution at a directors’ meeting.
+
+(4) A decision may not be taken in accordance with this article if the eligible directors would not have formed a quorum at such a meeting.
+
+### 19. Calling a directors’ meeting
+
+19.—(1) Any director may call a directors’ meeting by giving notice of the meeting to the directors or by authorising the company secretary (if any) to give such notice.
+
+(2) Notice of any directors’ meeting must indicate—
+
+(a) its proposed date and time;
+
+(b) where it is to take place; and
+
+(c) if it is anticipated that directors participating in the meeting will not be in the same place, how it is proposed that they should communicate with each other during the meeting.
+
+(3) Notice of a directors’ meeting must be given to each director, but need not be in writing.
+
+(4) Notice of a directors’ meeting need not be given to directors who waive their entitlement to notice of that meeting, by giving notice to that effect to the company not more than 7 days after the date on which the meeting is held. Where such notice is given after the meeting has been held, that does not affect the validity of the meeting, or of any business conducted at it.
+
+### 20. Participation in directors’ meetings
+
+20.—(1) Subject to the articles, directors participate in a directors’ meeting, or part of a directors’ meeting, when—
+
+(a) the meeting has been called and takes place in accordance with the articles, and
+
+(b) they can each communicate to the others any information or opinions they have on any particular item of the business of the meeting.
+
+(2) In determining whether directors are participating in a directors’ meeting, it is irrelevant where any director is or how they communicate with each other.
+
+(3) If all the directors participating in a meeting are not in the same place, they may decide that the meeting is to be treated as taking place wherever any of them is.
+
+### 21. Quorum for directors’ meetings
+
+21.—(1) At a directors’ meeting, unless a quorum is participating, no proposal is to be voted on, except a proposal to call another meeting.
+
+(2) The quorum for directors’ meetings may be fixed from time to time by a decision of the directors, but it must never be less than two, and unless otherwise fixed it is two.
+
+(3) If the total number of directors for the time being is less than the quorum required, the directors must not take any decision other than a decision—
+
+(a) to appoint further directors, or
+
+(b) to call a general meeting so as to enable the shareholders to appoint further directors.
+
+### 22. Chairing of directors’ meetings
+
+12.—(1) The directors may appoint a director to chair their meetings.
+
+(2) The person so appointed for the time being is known as the chairman.
+
+(3) The directors may terminate the chairman’s appointment at any time.
+
+(4) If the chairman is not participating in a directors’ meeting within ten minutes of the time at which it was to start, the participating directors must appoint one of themselves to chair it.
+
+### 23. Casting vote
+
+13.—(1) If the numbers of votes for and against a proposal are equal, the chairman or other director chairing the meeting has a casting vote.
+
+(2) But this does not apply if, in accordance with the articles, the chairman or other director is not to be counted as participating in the decision-making process for quorum or voting purposes.
+
+### 24. Conflicts of interest
+
+14.—(1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
+
+(2) But if paragraph (3) applies, a director who is interested in an actual or proposed transaction or arrangement with the company is to be counted as participating in the decision-making process for quorum and voting purposes.
+
+(3) This paragraph applies when—
+
+(a) the company by ordinary resolution disapplies the provision of the articles which would otherwise prevent a director from being counted as participating in the decision-making process;
+
+(b) the director’s interest cannot reasonably be regarded as likely to give rise to a conflict of interest; or
+
+(c) the director’s conflict of interest arises from a permitted cause.
+
+(4) For the purposes of this article, the following are permitted causes—
+
+(a) a guarantee given, or to be given, by or to a director in respect of an obligation incurred by or on behalf of the company or any of its subsidiaries;
+
+(b) subscription, or an agreement to subscribe, for shares or other securities of the company or any of its subsidiaries, or to underwrite, sub-underwrite, or guarantee subscription for any such shares or securities; and
+
+(c) arrangements pursuant to which benefits are made available to employees and directors or former employees and directors of the company or any of its subsidiaries which do not provide special benefits for directors or former directors.
+
+(5) For the purposes of this article, references to proposed decisions and decision-making processes include any directors’ meeting or part of a directors’ meeting.
+
+(6) Subject to paragraph (7), if a question arises at a meeting of directors or of a committee of directors as to the right of a director to participate in the meeting (or part of the meeting) for voting or quorum purposes, the question may, before the conclusion of the meeting, be referred to the chairman whose ruling in relation to any director other than the chairman is to be final and conclusive.
+
+(7) If any question as to the right to participate in the meeting (or part of the meeting) should arise in respect of the chairman, the question is to be decided by a decision of the directors at that meeting, for which purpose the chairman is not to be counted as participating in the meeting (or that part of the meeting) for voting or quorum purposes.
+
 
