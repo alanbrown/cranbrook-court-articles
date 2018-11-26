@@ -295,6 +295,8 @@ Shares
 
 (2) The company may issue shares which are to be redeemed, or are liable to be redeemed at the option of the company or the holder, and the directors may determine the terms, conditions and manner of redemption of any such shares.
 
+(3) Any shares not capable of being offered except by way of fractions and any shares released from the provisions of this Article by Special Resolution shall be under the control of the Directors, who may allot, grant options over or otherwise dispose of the same to such persons, on such terms, and in such manner as they think fit, provided that, such shares shall not be disposed of on terms which are more favourable to the subscribers thereof than the terms on which they were offered to the Members. In accordance with Section 91 of the Act, Section 89(1) and Section 90(1) to (6) of the Act shall be excluded from applying to the Company.
+
 ### 23. Company not bound by less than absolute interests
 
 Except as required by law, no person is to be recognised by the company as holding any share upon any trust, and except as otherwise required by law or the articles, the company is not in any way to be bound by or recognise any interest in a share other than the holder’s absolute ownership of it and all the rights attaching to it.
