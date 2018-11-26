@@ -248,37 +248,6 @@ Appointment of directors
 
 (f) notification is received by the company from the director that the director is resigning from office, and such resignation has taken effect in accordance with its terms.
 
-### 19. Directors’ remuneration
-
-19.—(1) Directors may undertake any services for the company that the directors decide.
-
-(2) Directors are entitled to such remuneration as the directors determine—
-
-(a) for their services to the company as directors, and
-
-(b) for any other service which they undertake for the company.
-
-(3) Subject to the articles, a director’s remuneration may—
-
-(a) take any form, and
-
-(b) include any arrangements in connection with the payment of a pension, allowance or gratuity, or any death, sickness or disability benefits, to or in respect of that director.
-
-(4) Unless the directors decide otherwise, directors’ remuneration accrues from day to day.
-
-(5) Unless the directors decide otherwise, directors are not accountable to the company for any remuneration which they receive as directors or other officers or employees of the company’s subsidiaries or of any other body corporate in which the company is interested.
-
-### 20. Directors’ expenses
-
-The company may pay any reasonable expenses which the directors properly incur in connection with their attendance at—
-(a) meetings of directors or committees of directors,
-
-(b) general meetings, or
-
-(c) separate meetings of the holders of any class of shares or of debentures of the company,
-
-or otherwise in connection with the exercise of their powers and the discharge of their responsibilities in relation to the company.
-
 ##  Part 3 Shares and distributions
 
 Shares
