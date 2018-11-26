@@ -248,7 +248,7 @@ Appointment of directors
 
 (f) notification is received by the company from the director that the director is resigning from office, and such resignation has taken effect in accordance with its terms.
 
-##  Part 3 Shares and distributions
+##  Part 5 Shares and distributions
 
 Shares
 
@@ -353,95 +353,7 @@ If a notice is given to a shareholder in respect of shares and a transmittee is 
 
 Dividends and other distributions
 
-### 30. Procedure for declaring dividends
-
-30.—(1) The company may by ordinary resolution declare dividends, and the directors may decide to pay interim dividends.
-
-(2) A dividend must not be declared unless the directors have made a recommendation as to its amount. Such a dividend must not exceed the amount recommended by the directors.
-
-(3) No dividend may be declared or paid unless it is in accordance with shareholders’ respective rights.
-
-(4) Unless the shareholders’ resolution to declare or directors’ decision to pay a dividend, or the terms on which shares are issued, specify otherwise, it must be paid by reference to each shareholder’s holding of shares on the date of the resolution or decision to declare or pay it.
-
-(5) If the company’s share capital is divided into different classes, no interim dividend may be paid on shares carrying deferred or non-preferred rights if, at the time of payment, any preferential dividend is in arrear.
-
-(6) The directors may pay at intervals any dividend payable at a fixed rate if it appears to them that the profits available for distribution justify the payment.
-
-(7) If the directors act in good faith, they do not incur any liability to the holders of shares conferring preferred rights for any loss they may suffer by the lawful payment of an interim dividend on shares with deferred or non-preferred rights.
-
-### 31. Payment of dividends and other distributions
-
-31.—(1) Where a dividend or other sum which is a distribution is payable in respect of a share, it must be paid by one or more of the following means—
-
-(a) transfer to a bank or building society account specified by the distribution recipient either in writing or as the directors may otherwise decide;
-
-(b) sending a cheque made payable to the distribution recipient by post to the distribution recipient at the distribution recipient’s registered address (if the distribution recipient is a holder of the share), or (in any other case) to an address specified by the distribution recipient either in writing or as the directors may otherwise decide;
-
-(c) sending a cheque made payable to such person by post to such person at such address as the distribution recipient has specified either in writing or as the directors may otherwise decide; or
-
-(d) any other means of payment as the directors agree with the distribution recipient either in writing or by such other means as the directors decide.
-
-(2) In the articles, “the distribution recipient” means, in respect of a share in respect of which a dividend or other sum is payable—
-
-(a) the holder of the share; or
-
-(b) if the share has two or more joint holders, whichever of them is named first in the register of members; or
-
-(c) if the holder is no longer entitled to the share by reason of death or bankruptcy, or otherwise by operation of law, the transmittee.
-
-### 32. No interest on distributions
-
-The company may not pay interest on any dividend or other sum payable in respect of a share unless otherwise provided by—
-(a) the terms on which the share was issued, or
-
-(b) the provisions of another agreement between the holder of that share and the company.
-
-### 33. Unclaimed distributions
-
-33.—(1) All dividends or other sums which are—
-
-(a) payable in respect of shares, and
-
-(b) unclaimed after having been declared or become payable,
-
-may be invested or otherwise made use of by the directors for the benefit of the company until claimed.
-
-(2) The payment of any such dividend or other sum into a separate account does not make the company a trustee in respect of it.
-
-(3) If—
-
-(a) twelve years have passed from the date on which a dividend or other sum became due for payment, and
-
-(b) the distribution recipient has not claimed it,
-
-the distribution recipient is no longer entitled to that dividend or other sum and it ceases to remain owing by the company.
-
-### 34. Non-cash distributions
-
-34.—(1) Subject to the terms of issue of the share in question, the company may, by ordinary resolution on the recommendation of the directors, decide to pay all or part of a dividend or other distribution payable in respect of a share by transferring non-cash assets of equivalent value (including, without limitation, shares or other securities in any company).
-
-(2) For the purposes of paying a non-cash distribution, the directors may make whatever arrangements they think fit, including, where any difficulty arises regarding the distribution—
-
-(a) fixing the value of any assets;
-
-(b) paying cash to any distribution recipient on the basis of that value in order to adjust the rights of recipients; and
-
-(c) vesting any assets in trustees.
-
-### 35. Waiver of distributions
-
-Distribution recipients may waive their entitlement to a dividend or other distribution payable in respect of a share by giving the company notice in writing to that effect, but if—
-(a) the share has more than one holder, or
-
-(b) more than one person is entitled to the share, whether by reason of the death or
-
-bankruptcy of one or more joint holders, or otherwise,
-
-the notice is not effective unless it is expressed to be given, and signed, by all the holders or persons otherwise entitled to the share.
-
-Capitalisation of profits
-
-### 36. Authority to capitalise and appropriation of capitalised sums
+### 38. Authority to capitalise and appropriation of capitalised sums
 
 36.—(1) Subject to the articles, the directors may, if they are so authorised by an ordinary resolution—
 
