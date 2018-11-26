@@ -285,18 +285,19 @@ Shares
 
 ### 21. All shares to be fully paid up
 
-21.—(1) No share is to be issued for less than the aggregate of its nominal value and any premium to be paid to the company in consideration for its issue.
+21.—(1) No share is to be issued for no more or less than the aggregate of its nominal value.
 
 (2) This does not apply to shares taken on the formation of the company by the subscribers to the company’s memorandum.
 
+(3) Each of the shares in the capitol of the Company shall be referable to a specific Flat
+
 ### 22. Powers to issue different classes of share
 
-22.—(1) Subject to the articles, but without prejudice to the rights attached to any existing share, the company may issue shares with such rights or restrictions as may be determined by ordinary resolution.
+22.—(1) A share shall be transferred and may only be transferred upon or immediately before a change in the ownership of the Flat to which it is referable, and in the case any such transfer the Directors upon production of them of satisfactory evidence that the transfer is in favour of an Owner under the terms hereof, shall pass and register such transfer provided that in the absence of such evidence as aforesaid the Directors shall refuse to register any such transfer.
 
-(2) The company may issue shares which are to be redeemed, or are liable to be redeemed at the option of the company or the holder, and the directors may determine the terms, conditions and manner of redemption of any such shares.
+(2) Any shares not capable of being offered except by way of fractions and any shares released from the provisions of this Article by Special Resolution shall be under the control of the Directors, who may allot, grant options over or otherwise dispose of the same to such persons, on such terms, and in such manner as they think fit, provided that, such shares shall not be disposed of on terms which are more favourable to the subscribers thereof than the terms on which they were offered to the Members. In accordance with Section 91 of the Act, Section 89(1) and Section 90(1) to (6) of the Act shall be excluded from applying to the Company.
 
-(3) Any shares not capable of being offered except by way of fractions and any shares released from the provisions of this Article by Special Resolution shall be under the control of the Directors, who may allot, grant options over or otherwise dispose of the same to such persons, on such terms, and in such manner as they think fit, provided that, such shares shall not be disposed of on terms which are more favourable to the subscribers thereof than the terms on which they were offered to the Members. In accordance with Section 91 of the Act, Section 89(1) and Section 90(1) to (6) of the Act shall be excluded from applying to the Company.
-
+(3) If more than one person is jointly in Owner of a Flat such persons shall jointly hold the shares in the Company but any vote shall be cast by the holder whose name first appears in the register of members.
 ### 23. Company not bound by less than absolute interests
 
 Except as required by law, no person is to be recognised by the company as holding any share upon any trust, and except as otherwise required by law or the articles, the company is not in any way to be bound by or recognise any interest in a share other than the holder’s absolute ownership of it and all the rights attaching to it.
@@ -326,6 +327,7 @@ Except as required by law, no person is to be recognised by the company as holdi
 (b) be otherwise executed in accordance with the Companies Acts.
 
 25. Replacement share certificates
+
 25.—(1) If a certificate issued in respect of a shareholder’s shares is—
 
 (a) damaged or defaced, or
@@ -342,7 +344,7 @@ Except as required by law, no person is to be recognised by the company as holdi
 
 ### 26. Share transfers
 
-26.—(1) Shares may be transferred by means of an instrument of transfer in any usual form or any other form approved by the directors, which is executed by or on behalf of the transferor.
+26.—(1) Shares may be transferred immediately upon the completion of the sale of each flat to the Owner allot to the Owner of each Flat one share on the capitol of the Company for cash at par.
 
 (2) No fee may be charged for registering any instrument of transfer or other document relating to or affecting the title to any share.
 
@@ -350,7 +352,11 @@ Except as required by law, no person is to be recognised by the company as holdi
 
 (4) The transferor remains the holder of a share until the transferee’s name is entered in the register of members as holder of it.
 
-(5) The directors may refuse to register the transfer of a share, and if they do so, the instrument of transfer must be returned to the transferee with the notice of refusal unless they suspect that the proposed transfer may be fraudulent.
+(5) No person other than the Developer or the Subscribers hereto who is now the Owner of a Flat shall be titled to hold any share in the Company.
+
+(6) If at any time the holder of a share other than the Developer or the Subscribers hereto shall not be the Owner of the Flat to which such share is referable the Directors may authorise some person to execute on behalf of and as attorney for such holder a transfer of the share or shares held by him to the Owner of the Flat to which such share is or shares are referable, and the Company may receive the purchase money and shall thereupon cause the name or names of the transferee or transferees to be entered in the register of members as the holder or holders by transfer of the said share or shares, and shall hold the purse money in trust for the previous holder. The receipt of the Company for the purchase money shall be a good discharged to the transferee, is, are, has or have been entered in the register of members in purported exercise of the aforesaid powers the validity of the proceedings shall not be questioned by any person.
+
+(7) The directors may refuse to register the transfer of a share, and if they do so, the instrument of transfer must be returned to the transferee with the notice of refusal unless they suspect that the proposed transfer may be fraudulent.
 
 ### 27. Transmission of shares
 
@@ -370,13 +376,12 @@ Except as required by law, no person is to be recognised by the company as holdi
 
 (2) If the transmittee wishes to have a share transferred to another person, the transmittee must execute an instrument of transfer in respect of it.
 
-(3) Any transfer made or executed under this article is to be treated as if it were made or
-
-executed by the person from whom the transmittee has derived rights in respect of the share, and as if the event which gave rise to the transmission had not occurred.
+(3) Any transfer made or executed under this article is to be treated as if it were made or executed by the person from whom the transmittee has derived rights in respect of the share, and as if the event which gave rise to the transmission had not occurred.
 
 ### 29. Transmittees bound by prior notices
 
 If a notice is given to a shareholder in respect of shares and a transmittee is entitled to those shares, the transmittee is bound by the notice if it was given to the shareholder before the transmittee’s name has been entered in the register of members.
+
 Dividends and other distributions
 
 ### 30. Procedure for declaring dividends
