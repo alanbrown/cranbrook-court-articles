@@ -539,10 +539,6 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (c) any person authorised by the directors for the purpose of signing documents to which the common seal is applied.
 
-### 50. No right to inspect accounts and other records
-
-Except as provided by law or authorised by the directors or an ordinary resolution of the company, no person is entitled to inspect any of the company’s accounting or other records or documents merely by virtue of being a shareholder.
-
 ### 51. Provision for employees on cessation of business
 
 The directors may decide to make provision for the benefit of persons employed or formerly employed by the company or any of its subsidiaries (other than a director or former director or shadow director) in connection with the cessation or transfer to any person of the whole or part of the undertaking of the company or that subsidiary.
