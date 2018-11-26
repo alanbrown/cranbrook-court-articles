@@ -353,32 +353,6 @@ If a notice is given to a shareholder in respect of shares and a transmittee is 
 
 Dividends and other distributions
 
-### 38. Authority to capitalise and appropriation of capitalised sums
-
-36.—(1) Subject to the articles, the directors may, if they are so authorised by an ordinary resolution—
-
-(a) decide to capitalise any profits of the company (whether or not they are available for distribution) which are not required for paying a preferential dividend, or any sum standing to the credit of the company’s share premium account or capital redemption reserve; and
-
-(b) appropriate any sum which they so decide to capitalise (a “capitalised sum”) to the persons who would have been entitled to it if it were distributed by way of dividend (the “persons entitled”) and in the same proportions.
-
-(2) Capitalised sums must be applied—
-
-(a) on behalf of the persons entitled, and
-
-(b) in the same proportions as a dividend would have been distributed to them.
-
-(3) Any capitalised sum may be applied in paying up new shares of a nominal amount equal to the capitalised sum which are then allotted credited as fully paid to the persons entitled or as they may direct.
-
-(4) A capitalised sum which was appropriated from profits available for distribution may be applied in paying up new debentures of the company which are then allotted credited as fully paid to the persons entitled or as they may direct.
-
-(5) Subject to the articles the directors may—
-
-(a) apply capitalised sums in accordance with paragraphs (3) and (4) partly in one way and partly in another;
-
-(b) make such arrangements as they think fit to deal with shares or debentures becoming distributable in fractions under this article (including the issuing of fractional certificates or the making of cash payments); and
-
-(c) authorise any person to enter into an agreement with the company on behalf of all the persons entitled which is binding on them in respect of the allotment of shares and debentures to them under this article.
-
 ## Part 4 Decision-making by shareholders
 
 Organisation of general meetings
