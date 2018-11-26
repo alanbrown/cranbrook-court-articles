@@ -52,6 +52,14 @@
 
 “writing” means the representation or reproduction of words, symbols or other information in a visible form by any method or combination of methods, whether sent or supplied in electronic form or otherwise.
 
+"the estate" means Cranbrook Court, Sumerset Road, Brentford
+
+"owner" means any person who is the holder of a lease of a house of flat on the Estate the revsersion to which is in Sackville Securities Limited or its successors in title
+
+"flat" means any flat on the estate
+
+"the developer" means Sackville Securities limited or its successors in title
+
 Unless the context otherwise requires, other words or expressions contained in these articles bear the same meaning as in the Companies Act 2006 as in force on the date when these articles become binding on the company.
 
 ### 2. Liability of members
