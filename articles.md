@@ -538,33 +538,3 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 (b) the company secretary (if any); or
 
 (c) any person authorised by the directors for the purpose of signing documents to which the common seal is applied.
-
-### 52. Indemnity
-
-52.—(1) Subject to paragraph (2), a relevant director of the company or an associated company may be indemnified out of the company’s assets against—
-
-(a) any liability incurred by that director in connection with any negligence, default, breach of duty or breach of trust in relation to the company or an associated company,
-
-(b) any liability incurred by that director in connection with the activities of the company or an associated company in its capacity as a trustee of an occupational pension scheme (as defined in section 235(6) of the Companies Act 2006),
-
-(c) any other liability incurred by that director as an officer of the company or an associated company.
-
-(2) This article does not authorise any indemnity which would be prohibited or rendered void by any provision of the Companies Acts or by any other provision of law.
-
-(3) In this article—
-
-(a) companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate, and
-
-(b) a “relevant director” means any director or former director of the company or an associated company.
-
-### 53. Insurance
-
-53.—(1) The directors may decide to purchase and maintain insurance, at the expense of the company, for the benefit of any relevant director in respect of any relevant loss.
-
-(2) In this article—
-
-(a) a “relevant director” means any director or former director of the company or an associated company,
-
-(b) a “relevant loss” means any loss or liability which has been or may be incurred by a relevant director in connection with that director’s duties or powers in relation to the company, any associated company or any pension fund or employees’ share scheme of the company or associated company, and
-
-(c) companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate.
