@@ -142,7 +142,7 @@
 
 ### 24. Conflicts of interest
 
-14.—(1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
+24.—(1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
 (2) But if paragraph (3) applies, a director who is interested in an actual or proposed transaction or arrangement with the company is to be counted as participating in the decision-making process for quorum and voting purposes.
 
@@ -167,5 +167,149 @@
 (6) Subject to paragraph (7), if a question arises at a meeting of directors or of a committee of directors as to the right of a director to participate in the meeting (or part of the meeting) for voting or quorum purposes, the question may, before the conclusion of the meeting, be referred to the chairman whose ruling in relation to any director other than the chairman is to be final and conclusive.
 
 (7) If any question as to the right to participate in the meeting (or part of the meeting) should arise in respect of the chairman, the question is to be decided by a decision of the directors at that meeting, for which purpose the chairman is not to be counted as participating in the meeting (or that part of the meeting) for voting or quorum purposes.
+
+## Decision-making by shareholders
+
+Organisation of general meetings
+
+###  25. Attendance and speaking at general meetings
+
+25.—(1) A person is able to exercise the right to speak at a general meeting when that person is in a position to communicate to all those attending the meeting, during the meeting, any information or opinions which that person has on the business of the meeting.
+
+(2) A person is able to exercise the right to vote at a general meeting when—
+
+(a) that person is able to vote, during the meeting, on resolutions put to the vote at the meeting, and
+
+(b) that person’s vote can be taken into account in determining whether or not such resolutions are passed at the same time as the votes of all the other persons attending the meeting.
+
+(3) The directors may make whatever arrangements they consider appropriate to enable those attending a general meeting to exercise their rights to speak or vote at it.
+
+(4) In determining attendance at a general meeting, it is immaterial whether any two or more members attending it are in the same place as each other.
+
+(5) Two or more persons who are not in the same place as each other attend a general meeting if their circumstances are such that if they have (or were to have) rights to speak and vote at that meeting, they are (or would be) able to exercise them.
+
+### 26. Quorum for general meetings
+
+No business other than the appointment of the chairman of the meeting is to be transacted at a general meeting if the persons attending it do not constitute a quorum.
+
+### 27. Chairing general meetings
+
+39.—(1) If the directors have appointed a chairman, the chairman shall chair general meetings if present and willing to do so.
+
+(2) If the directors have not appointed a chairman, or if the chairman is unwilling to chair the meeting or is not present within ten minutes of the time at which a meeting was due to start—
+
+(a) the directors present, or
+
+(b) (if no directors are present), the meeting,
+
+must appoint a director or shareholder to chair the meeting, and the appointment of the chairman of the meeting must be the first business of the meeting.
+
+(3) The person chairing a meeting in accordance with this article is referred to as “the chairman of the meeting”.
+
+### 28. Attendance and speaking by directors and non-shareholders
+
+28.—(1) Directors may attend and speak at general meetings, whether or not they are shareholders.
+
+(2) The chairman of the meeting may permit other persons who are not—
+
+(a) shareholders of the company, or
+
+(b) otherwise entitled to exercise the rights of shareholders in relation to general meetings, to attend and speak at a general meeting.
+
+### 29. Adjournment
+
+29.—(1) If the persons attending a general meeting within half an hour of the time at which the meeting was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chairman of the meeting must adjourn it.
+
+(2) The chairman of the meeting may adjourn a general meeting at which a quorum is present if—
+
+(a) the meeting consents to an adjournment, or
+
+(b) it appears to the chairman of the meeting that an adjournment is necessary to protect the safety of any person attending the meeting or ensure that the business of the meeting is conducted in an orderly manner.
+
+(3) The chairman of the meeting must adjourn a general meeting if directed to do so by the meeting.
+
+(4) When adjourning a general meeting, the chairman of the meeting must—
+
+(a) either specify the time and place to which it is adjourned or state that it is to continue at a time and place to be fixed by the directors, and
+
+(b) have regard to any directions as to the time and place of any adjournment which have been given by the meeting.
+
+(5) If the continuation of an adjourned meeting is to take place more than 14 days after it was adjourned, the company must give at least 7 clear days’ notice of it (that is, excluding the day of the adjourned meeting and the day on which the notice is given)—
+
+(a) to the same persons to whom notice of the company’s general meetings is required to be given, and
+
+(b) containing the same information which such notice is required to contain.
+
+(6) No business may be transacted at an adjourned general meeting which could not properly have been transacted at the meeting if the adjournment had not taken place.
+
+Voting at general meetings
+
+### 30. Voting: general
+
+A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is duly demanded in accordance with the articles.
+
+### 31. Errors and disputes
+
+31.—(1) No objection may be raised to the qualification of any person voting at a general meeting except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting is valid.
+
+(2) Any such objection must be referred to the chairman of the meeting, whose decision is final.
+
+### 32. Poll votes
+
+32.—(1) A poll on a resolution may be demanded—
+
+(a) in advance of the general meeting where it is to be put to the vote, or
+
+(b) at a general meeting, either before a show of hands on that resolution or immediately after the result of a show of hands on that resolution is declared.
+
+(2) A poll may be demanded by—
+
+(a) the chairman of the meeting;
+
+(b) the directors;
+
+(c) two or more persons having the right to vote on the resolution; or
+
+(d) a person or persons representing not less than one tenth of the total voting rights of all the shareholders having the right to vote on the resolution.
+
+(3) A demand for a poll may be withdrawn if—
+
+(a) the poll has not yet been taken, and
+
+(b) the chairman of the meeting consents to the withdrawal.
+
+(4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
+
+### 33. Content of proxy notices
+
+33.—(1) Proxies may only validly be appointed by a notice in writing (a “proxy notice”) which—
+
+(a) states the name and address of the shareholder appointing the proxy;
+
+(b) identifies the person appointed to be that shareholder’s proxy and the general meeting in relation to which that person is appointed;
+
+(c) is signed by or on behalf of the shareholder appointing the proxy, or is authenticated in such manner as the directors may determine; and
+
+(d) is delivered to the company in accordance with the articles and any instructions contained in the notice of the general meeting to which they relate.
+
+(2) The company may require proxy notices to be delivered in a particular form, and may specify different forms for different purposes.
+
+(3) Proxy notices may specify how the proxy appointed under them is to vote (or that the proxy is to abstain from voting) on one or more resolutions.
+
+(4) Unless a proxy notice indicates otherwise, it must be treated as—
+
+(a) allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary or procedural resolutions put to the meeting, and
+
+(b) appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
+
+### 34. Delivery of proxy notices
+
+34.—(1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the company by or on behalf of that person.
+
+(2) An appointment under a proxy notice may be revoked by delivering to the company a notice in writing given by or on behalf of the person by whom or on whose behalf the proxy notice was given.
+
+(3) A notice revoking a proxy appointment only takes effect if it is delivered before the start of the meeting or adjourned meeting to which it relates.
+
+(4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointor’s behalf.
 
 
