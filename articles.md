@@ -252,26 +252,26 @@ Appointment of directors
 
 Shares
 
-### 21. All shares to be fully paid up
+### 19. All shares to be fully paid up
 
-21.—(1) No share is to be issued for no more or less than the aggregate of its nominal value.
+19.—(1) No share is to be issued for no more or less than the aggregate of its nominal value.
 
 (2) This does not apply to shares taken on the formation of the company by the subscribers to the company’s memorandum.
 
 (3) Each of the shares in the capitol of the Company shall be referable to a specific Flat
 
-### 22. Powers to issue different classes of share
+### 20. Powers to issue different classes of share
 
-22.—(1) A share shall be transferred and may only be transferred upon or immediately before a change in the ownership of the Flat to which it is referable, and in the case any such transfer the Directors upon production of them of satisfactory evidence that the transfer is in favour of an Owner under the terms hereof, shall pass and register such transfer provided that in the absence of such evidence as aforesaid the Directors shall refuse to register any such transfer.
+20.—(1) A share shall be transferred and may only be transferred upon or immediately before a change in the ownership of the Flat to which it is referable, and in the case any such transfer the Directors upon production of them of satisfactory evidence that the transfer is in favour of an Owner under the terms hereof, shall pass and register such transfer provided that in the absence of such evidence as aforesaid the Directors shall refuse to register any such transfer.
 
 (2) Any shares not capable of being offered except by way of fractions and any shares released from the provisions of this Article by Special Resolution shall be under the control of the Directors, who may allot, grant options over or otherwise dispose of the same to such persons, on such terms, and in such manner as they think fit, provided that, such shares shall not be disposed of on terms which are more favourable to the subscribers thereof than the terms on which they were offered to the Members. In accordance with Section 91 of the Act, Section 89(1) and Section 90(1) to (6) of the Act shall be excluded from applying to the Company.
 
 (3) If more than one person is jointly in Owner of a Flat such persons shall jointly hold the shares in the Company but any vote shall be cast by the holder whose name first appears in the register of members.
-### 23. Company not bound by less than absolute interests
+### 21. Company not bound by less than absolute interests
 
 Except as required by law, no person is to be recognised by the company as holding any share upon any trust, and except as otherwise required by law or the articles, the company is not in any way to be bound by or recognise any interest in a share other than the holder’s absolute ownership of it and all the rights attaching to it.
 
-### 24. Share certificates
+### 22. Share certificates
 
 24.—(1) The company must issue each shareholder, free of charge, with one or more certificates in respect of the shares which that shareholder holds.
 
@@ -311,9 +311,9 @@ Except as required by law, no person is to be recognised by the company as holdi
 
 (c) must comply with such conditions as to evidence, indemnity and the payment of a reasonable fee as the directors decide.
 
-### 26. Share transfers
+### 23. Share transfers
 
-26.—(1) Shares may be transferred immediately upon the completion of the sale of each flat to the Owner allot to the Owner of each Flat one share on the capitol of the Company for cash at par.
+23.—(1) Shares may be transferred immediately upon the completion of the sale of each flat to the Owner allot to the Owner of each Flat one share on the capitol of the Company for cash at par.
 
 (2) No fee may be charged for registering any instrument of transfer or other document relating to or affecting the title to any share.
 
@@ -327,9 +327,9 @@ Except as required by law, no person is to be recognised by the company as holdi
 
 (7) The directors may refuse to register the transfer of a share, and if they do so, the instrument of transfer must be returned to the transferee with the notice of refusal unless they suspect that the proposed transfer may be fraudulent.
 
-### 27. Transmission of shares
+### 24. Transmission of shares
 
-27.—(1) If title to a share passes to a transmittee, the company may only recognise the transmittee as having any title to that share.
+24.—(1) If title to a share passes to a transmittee, the company may only recognise the transmittee as having any title to that share.
 
 (2) A transmittee who produces such evidence of entitlement to shares as the directors may properly require—
 
@@ -339,15 +339,15 @@ Except as required by law, no person is to be recognised by the company as holdi
 
 (3) But transmittees do not have the right to attend or vote at a general meeting, or agree to a proposed written resolution, in respect of shares to which they are entitled, by reason of the holder’s death or bankruptcy or otherwise, unless they become the holders of those shares.
 
-### 28. Exercise of transmittees’ rights
+### 25. Exercise of transmittees’ rights
 
-28.—(1) Transmittees who wish to become the holders of shares to which they have become entitled must notify the company in writing of that wish.
+25.—(1) Transmittees who wish to become the holders of shares to which they have become entitled must notify the company in writing of that wish.
 
 (2) If the transmittee wishes to have a share transferred to another person, the transmittee must execute an instrument of transfer in respect of it.
 
 (3) Any transfer made or executed under this article is to be treated as if it were made or executed by the person from whom the transmittee has derived rights in respect of the share, and as if the event which gave rise to the transmission had not occurred.
 
-### 29. Transmittees bound by prior notices
+### 26. Transmittees bound by prior notices
 
 If a notice is given to a shareholder in respect of shares and a transmittee is entitled to those shares, the transmittee is bound by the notice if it was given to the shareholder before the transmittee’s name has been entered in the register of members.
 
@@ -357,9 +357,9 @@ Dividends and other distributions
 
 Organisation of general meetings
 
-###  37. Attendance and speaking at general meetings
+###  27. Attendance and speaking at general meetings
 
-37.—(1) A person is able to exercise the right to speak at a general meeting when that person is in a position to communicate to all those attending the meeting, during the meeting, any information or opinions which that person has on the business of the meeting.
+27.—(1) A person is able to exercise the right to speak at a general meeting when that person is in a position to communicate to all those attending the meeting, during the meeting, any information or opinions which that person has on the business of the meeting.
 
 (2) A person is able to exercise the right to vote at a general meeting when—
 
@@ -373,13 +373,13 @@ Organisation of general meetings
 
 (5) Two or more persons who are not in the same place as each other attend a general meeting if their circumstances are such that if they have (or were to have) rights to speak and vote at that meeting, they are (or would be) able to exercise them.
 
-### 38. Quorum for general meetings
+### 28. Quorum for general meetings
 
 No business other than the appointment of the chairman of the meeting is to be transacted at a general meeting if the persons attending it do not constitute a quorum.
 
-### 39. Chairing general meetings
+### 29. Chairing general meetings
 
-39.—(1) If the directors have appointed a chairman, the chairman shall chair general meetings if present and willing to do so.
+29.—(1) If the directors have appointed a chairman, the chairman shall chair general meetings if present and willing to do so.
 
 (2) If the directors have not appointed a chairman, or if the chairman is unwilling to chair the meeting or is not present within ten minutes of the time at which a meeting was due to start—
 
@@ -391,9 +391,9 @@ must appoint a director or shareholder to chair the meeting, and the appointment
 
 (3) The person chairing a meeting in accordance with this article is referred to as “the chairman of the meeting”.
 
-### 40. Attendance and speaking by directors and non-shareholders
+### 30. Attendance and speaking by directors and non-shareholders
 
-40.—(1) Directors may attend and speak at general meetings, whether or not they are shareholders.
+30.—(1) Directors may attend and speak at general meetings, whether or not they are shareholders.
 
 (2) The chairman of the meeting may permit other persons who are not—
 
@@ -401,9 +401,9 @@ must appoint a director or shareholder to chair the meeting, and the appointment
 
 (b) otherwise entitled to exercise the rights of shareholders in relation to general meetings, to attend and speak at a general meeting.
 
-### 41. Adjournment
+### 31. Adjournment
 
-41.—(1) If the persons attending a general meeting within half an hour of the time at which the meeting was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chairman of the meeting must adjourn it.
+31.—(1) If the persons attending a general meeting within half an hour of the time at which the meeting was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chairman of the meeting must adjourn it.
 
 (2) The chairman of the meeting may adjourn a general meeting at which a quorum is present if—
 
@@ -429,19 +429,19 @@ must appoint a director or shareholder to chair the meeting, and the appointment
 
 Voting at general meetings
 
-### 42. Voting: general
+### 32. Voting: general
 
 A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is duly demanded in accordance with the articles.
 
-### 43. Errors and disputes
+### 33. Errors and disputes
 
-43.—(1) No objection may be raised to the qualification of any person voting at a general meeting except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting is valid.
+33.—(1) No objection may be raised to the qualification of any person voting at a general meeting except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting is valid.
 
 (2) Any such objection must be referred to the chairman of the meeting, whose decision is final.
 
-### 44. Poll votes
+### 34. Poll votes
 
-44.—(1) A poll on a resolution may be demanded—
+34.—(1) A poll on a resolution may be demanded—
 
 (a) in advance of the general meeting where it is to be put to the vote, or
 
@@ -465,9 +465,9 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
 
-### 45. Content of proxy notices
+### 35. Content of proxy notices
 
-45.—(1) Proxies may only validly be appointed by a notice in writing (a “proxy notice”) which—
+35.—(1) Proxies may only validly be appointed by a notice in writing (a “proxy notice”) which—
 
 (a) states the name and address of the shareholder appointing the proxy;
 
@@ -487,9 +487,9 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (b) appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
 
-### 46. Delivery of proxy notices
+### 36. Delivery of proxy notices
 
-46.—(1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the company by or on behalf of that person.
+36.—(1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the company by or on behalf of that person.
 
 (2) An appointment under a proxy notice may be revoked by delivering to the company a notice in writing given by or on behalf of the person by whom or on whose behalf the proxy notice was given.
 
@@ -497,9 +497,9 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 (4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointor’s behalf.
 
-### 47. Amendments to resolutions
+### 37. Amendments to resolutions
 
-47.—(1) An ordinary resolution to be proposed at a general meeting may be amended by ordinary resolution if—
+37.—(1) An ordinary resolution to be proposed at a general meeting may be amended by ordinary resolution if—
 
 (a) notice of the proposed amendment is given to the company in writing by a person entitled to vote at the general meeting at which it is to be proposed not less than 48 hours before the meeting is to take place (or such later time as the chairman of the meeting may determine), and
 
@@ -515,17 +515,17 @@ A resolution put to the vote of a general meeting must be decided on a show of h
 
 ## Part 5 Administrative arrangements
 
-### 48. Means of communication to be used
+### 38. Means of communication to be used
 
-48.—(1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Act 2006 provides for documents or information which are authorised or required by any provision of that Act to be sent or supplied by or to the company.
+38.—(1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Act 2006 provides for documents or information which are authorised or required by any provision of that Act to be sent or supplied by or to the company.
 
 (2) Subject to the articles, any notice or document to be sent or supplied to a director in connection with the taking of decisions by directors may also be sent or supplied by the means by which that director has asked to be sent or supplied with such notices or documents for the time being.
 
 (3) A director may agree with the company that notices or documents sent to that director in a particular way are to be deemed to have been received within a specified time of their being sent, and for the specified time to be less than 48 hours.
 
-### 49. Company seals
+### 39. Company seals
 
-49.—(1) Any common seal may only be used by the authority of the directors.
+39.—(1) Any common seal may only be used by the authority of the directors.
 
 (2) The directors may decide by what means and in what form any common seal is to be used.
 
