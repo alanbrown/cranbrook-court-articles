@@ -68,13 +68,13 @@
 
 ### 17. Directors to take decisions collectively
 
-17.—(1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 8.
+17.—(1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 18.
 
 (2) If—
 
 (a) the company only has one director, and (b) no provision of the articles requires it to have more than one director, the general rule does not apply, and the director may take decisions without regard to any of the provisions of the articles relating to directors’ decision-making.
 
-### 8. Unanimous decisions
+### 18. Unanimous decisions
 
 18.—(1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
 
