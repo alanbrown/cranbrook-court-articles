@@ -26,18 +26,18 @@
 
 ## Shares
 
-4. The share capitol of the Company is £240 divided into 12 shares of £20 each.
+4. The share capital of the Company is £240 divided into 12 shares of £20 each.
 
 5. After the initial allotment of shares by the Directors any further shares proposed to be issued shall first be offered to the Members in proportion as nearly as may be to the number of existing shares held by them respectively unless the Company shall by Special Resolution otherwise direct.  The offer shall be made by notice specifying the number of shares offered, and limiting a period (not being less than fourteen days) within which the offer, if not accepted, will be deemed to be declined. After the expiration of that period, will those shares so deemed to be declined shall be offered in the proportion aforesaid to the persons who have, within the said period, accepted all the shared offered to them; such further offer shall be made in the manner and limited by a like period as the original offer. Any shared not accepted pursuant to such offer or further offer as aforesaid or not capable of being offered as aforesaid except by way of fractions and any shared released from the provisions of this Article by such Special Resolution as aforesaid shall by under the control of the Directors, who may allot, grant options over or otherwise dispose of the same to such person, on such terms, and in such manner as they think git, provided that, in the case of shared not accepted as aforesaid, such shares shall not be disposed of on terms which are more favourable to the subscribers thereof than the terms on which they are offered to the Members. In accordance with Section 91 of the Act, Section 89(1) and Section 90(1) to (6) of the Act shall be excluded from applying to the Company.
 
-6. Subject to the Article 5 above the Directors are authorised in accordance with Section 89 of the Act to exercise any power of the Company to allot and grant rights to subscribe for or convert securities into shares of the Company up to the amount of the share capitol created on the incorporation of the Company and may do so at any time before the date of the fifth anniversary of such incorporation and this authority shall expire on that date except that the Directors may allot shares thereafter in pursuance of any agreement or offer to allot made before that date. This authority may be revoked, varied or renewed (but not for more than five years at a time) by an Ordinary Resolution.
+6. Subject to the Article 5 above the Directors are authorised in accordance with Section 89 of the Act to exercise any power of the Company to allot and grant rights to subscribe for or convert securities into shares of the Company up to the amount of the share capital created on the incorporation of the Company and may do so at any time before the date of the fifth anniversary of such incorporation and this authority shall expire on that date except that the Directors may allot shares thereafter in pursuance of any agreement or offer to allot made before that date. This authority may be revoked, varied or renewed (but not for more than five years at a time) by an Ordinary Resolution.
 
 
 ## Allotment and Transfer of Shares
 
-7. Each of the shares in the capitol of the Company shall be referable to a specific Flat.
+7. Each of the shares in the capital of the Company shall be referable to a specific Flat.
 
-8. The Company shall forthwith upon the completion of the sale of each Flat to the Owner allot to the Owner of each such Flat one share in the capitol of the Company for cash at par.
+8. The Company shall forthwith upon the completion of the sale of each Flat to the Owner allot to the Owner of each such Flat one share in the capital of the Company for cash at par.
 
 9. No person other than the Developer or the Subscribers hereto who is now the Owner of a Flat shall be entitled to hold any share in the Company.
 
@@ -68,13 +68,13 @@
 
 ### 17. Directors to take decisions collectively
 
-17.—(1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 8.
+17.—(1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 18.
 
 (2) If—
 
 (a) the company only has one director, and (b) no provision of the articles requires it to have more than one director, the general rule does not apply, and the director may take decisions without regard to any of the provisions of the articles relating to directors’ decision-making.
 
-### 8. Unanimous decisions
+### 18. Unanimous decisions
 
 18.—(1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
 
